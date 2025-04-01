@@ -1,16 +1,18 @@
-# dice_roll
+# Dice Roll
 
-A new Flutter project.
+A simple Flutter app that generates a random number between 1 and 6, simulating a dice roll.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Generate a random number between 1 and 6
+- Keep track of the number of times the dice has been rolled
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot of the app](screenshots/screenshot.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TODO
+
+- Add more features to the app
+- Improve the design of the app
+- Add a settings page to allow the user to change the range of the dice
